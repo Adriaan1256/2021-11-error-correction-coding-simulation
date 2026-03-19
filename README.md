@@ -22,20 +22,20 @@ The performance of the encoding techniques is evaluated by calculating and plott
 
 ## Objectives
 
-- Develop two simulation platforms for encoding and decoding modulated information through an AWGN channel without multipath :contentReference[oaicite:0]{index=0}  
-- Implement Linear Block Codes using a variation of LDPC codes :contentReference[oaicite:1]{index=1}  
-- Implement Convolutional Codes using a shift register and Viterbi MLSE decoding algorithm :contentReference[oaicite:2]{index=2}  
-- Simulate transmission using BPSK, QPSK, and 8PSK modulation schemes :contentReference[oaicite:3]{index=3}  
-- Plot BER as a function of SNR to compare encoding schemes :contentReference[oaicite:4]{index=4}  
-- Evaluate and compare the performance of Linear Block Codes, Convolutional Codes, and uncoded detection :contentReference[oaicite:5]{index=5}  
+- Develop two simulation platforms for encoding and decoding modulated information through an AWGN channel without multipath 
+- Implement Linear Block Codes using a variation of LDPC codes 
+- Implement Convolutional Codes using a shift register and Viterbi MLSE decoding algorithm 
+- Simulate transmission using BPSK, QPSK, and 8PSK modulation schemes 
+- Plot BER as a function of SNR to compare encoding schemes 
+- Evaluate and compare the performance of Linear Block Codes, Convolutional Codes, and uncoded detection 
 
 ---
 
 ## Tools & Technologies
 
-- Python :contentReference[oaicite:6]{index=6}  
-- NumPy :contentReference[oaicite:7]{index=7}  
-- Matplotlib :contentReference[oaicite:8]{index=8}  
+- Python 
+- NumPy  
+- Matplotlib  
 
 ---
 
